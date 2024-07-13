@@ -1,0 +1,14 @@
+Google Colab:  https://colab.research.google.com/drive/143TcZLsXyZrNLkCs8M0vEXAbqDLOYmU1?usp=sharing&fbclid=IwAR2Yljd_RpJOPUbaJOGWBVMMe14ja9MtL6USUtqPmpEjhGwu73931awXlP0
+
+
+
+Contributions:
+
+Machine Learning Model (K Nearest Neighbor)
+- Shania Francine Cloma
+- Bianz Jann Kenrick Yu
+- Kathleen Therese Cruz
+
+Machine Learning Model (Gaussian Naive Bayes)
+- Isaac Nathan Roman
+- Julianna Guillermo
